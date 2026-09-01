@@ -3,3 +3,4 @@ Test case A
 Contact: John Doe
 Email: john.doe@sun-asterisk.com
 Phone: 123-0010
+So dien thoai: 0123456789
