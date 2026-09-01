@@ -1,2 +1,3 @@
 Danh sach test case cho du an:
 Test case A
+Test case B
